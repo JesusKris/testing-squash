@@ -3,3 +3,4 @@ v2
 hotfix
 feature A
 feature B
+feature C
