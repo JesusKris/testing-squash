@@ -1,0 +1,14 @@
+{
+  "identifier": "TASK-123456",
+  "name": "Automation Alchemy",
+  "type": "TASK | LESSON | QUIZ",
+  "requirement": "MANDATORY | OPTIONAL",
+  "min_group_size": 1,
+  "max_group_size": 1,
+  "max_points": 300,
+  "exam_label": null, /* exam only */
+  "solution_repo": null, /* not mandatory, must be defined though */
+  "solution_source": "GIT | WEB",
+  "group_generation": "STUDENT | ADMIN",
+  "review_types": ["AUTOMATED", "PEER", "ADMIN"]
+}

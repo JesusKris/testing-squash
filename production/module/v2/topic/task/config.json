@@ -1,0 +1,19 @@
+{
+  "name": "Automation Alchemy",
+  "type": "TASK | LESSON | QUIZ",
+  "requirement": "MANDATORY | OPTIONAL",
+  "min_group_size": 1,
+  "max_group_size": 1,
+  "max_points": 100,
+  "exam_label": null, /* exam only */
+  "solution_repo": null, /* not mandatory, must be defined though */
+  "solution_source": "GIT | WEB",
+  "group_generation": "STUDENT | ADMIN",
+  "deliverables": [
+    {
+      "type": "FILE | FOLDER",
+      "name": "abacus.go"
+    }
+  ],
+  "review_types": ["AUTOMATED", "PEER", "ADMIN"]
+}

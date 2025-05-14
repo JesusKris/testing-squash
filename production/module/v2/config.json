@@ -1,0 +1,7 @@
+{
+  "name": "DevOps",
+  "description": null, /* not mandatory, must be defined though */
+  "solution_repo": null, /* not mandatory, must be defined though */
+  "type": "MODULE | SELECTION_SPRINT",
+  "topics_order": ["devops-awakens", "ops-ascension", "orchestration-elevation"]
+}
